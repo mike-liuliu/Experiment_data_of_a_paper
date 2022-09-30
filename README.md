@@ -13,6 +13,6 @@
 
 
 2. The first 19 datasets (data 0 to data 18) come from the scikit-learn project, the following 126 datasets come from the two benchmarks of evaluating clustering mentioned in the paper.  
-File_names_of_data_19_to_144 lists filenames of the last 126 datasets, readers can check data sources of the datasets by file names from the two benchmarks. If a dataset contains noise data points, the noise was removed from the original dataset. In version 3, duplicated data points was removed from the datasets.
+File_names_of_data_19_to_144 lists filenames of the last 126 datasets, readers can check data sources of the datasets by file names from the two benchmarks. If a dataset contains noise data points, the noise was removed from the original dataset. In version 3, duplicated data points was removed from each dataset.
 
 3. "Results of the 145 datasets" folder is the results of Version 1 and 2. 
